@@ -1,0 +1,177 @@
+{
+ "kind": "youtube#searchListResponse",
+ "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/smJr3E3rBtNsId15WRZU6Isx8yc\"",
+ "nextPageToken": "CAUQAA",
+ "regionCode": "US",
+ "pageInfo": {
+  "totalResults": 350,
+  "resultsPerPage": 5
+ },
+ "items": [
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/i7BVIW7r80iGpfMWxgYIzKqDUaQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ZGcG4i8QfGk"
+   },
+   "snippet": {
+    "publishedAt": "2013-05-24T21:01:11.000Z",
+    "channelId": "UCPDXXXJj9nax0fr0Wfc048g",
+    "title": "Hardly Working: Script Meeting",
+    "description": "The writers assign roles for their latest smash viral video masterpiece. See more http://www.collegehumor.com LIKE us on: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ZGcG4i8QfGk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ZGcG4i8QfGk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZGcG4i8QfGk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "CollegeHumor",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/k4ZpKYRukcObZKJ7Fhp4eUQ8XNE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "-hvDGYWFo7E"
+   },
+   "snippet": {
+    "publishedAt": "2011-04-26T21:59:39.000Z",
+    "channelId": "UCPDXXXJj9nax0fr0Wfc048g",
+    "title": "Hardly Working: Trading Lunches",
+    "description": "Best Humor Website: CollegeHumor -http://webby.aol.com/media_type/web?focused_on_category=957#cat_id_957 Best Comedy Individual Short: Grammar ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-hvDGYWFo7E/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-hvDGYWFo7E/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-hvDGYWFo7E/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "CollegeHumor",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/LFlpLTZkF3P7tTIVaQXONkTdm2Q\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "33Zp3BXwDB8"
+   },
+   "snippet": {
+    "publishedAt": "2013-09-10T16:00:55.000Z",
+    "channelId": "UCPDXXXJj9nax0fr0Wfc048g",
+    "title": "Hardly Working: Wolfenstein",
+    "description": "The final boss is ignorance. See more http://www.collegehumor.com LIKE us on: http://www.facebook.com/collegehumor FOLLOW us on: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/33Zp3BXwDB8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/33Zp3BXwDB8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/33Zp3BXwDB8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "CollegeHumor",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/uDWW2Ctxc2HiJuO5DFAVHYa-TqQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "OocuiRnSs4c"
+   },
+   "snippet": {
+    "publishedAt": "2012-10-29T18:53:18.000Z",
+    "channelId": "UCPDXXXJj9nax0fr0Wfc048g",
+    "title": "Hardly Working: Final Destination (Part 1)",
+    "description": "CH Bonus Footage http://bit.ly/Nm10EI LIKE us on: http://www.facebook.com/collegehumor Death is coming... if they don't kill themselves first. One of five ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/OocuiRnSs4c/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/OocuiRnSs4c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/OocuiRnSs4c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "CollegeHumor",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/9TvbPfaZJseIRB2MfEmj3R31XaY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "6KW4-AIoPxw"
+   },
+   "snippet": {
+    "publishedAt": "2011-08-22T13:47:20.000Z",
+    "channelId": "UCPDXXXJj9nax0fr0Wfc048g",
+    "title": "Hardly Working: Acceptance Letters (All-Nighter)",
+    "description": "See more http://www.collegehumor.com Jeff's alma, matters. Buy the BOOK http://www.collegehumor.com/the-website-the-book LIKE us on: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6KW4-AIoPxw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6KW4-AIoPxw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6KW4-AIoPxw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "CollegeHumor",
+    "liveBroadcastContent": "none"
+   }
+  }
+ ]
+}
